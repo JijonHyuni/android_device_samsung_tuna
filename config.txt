@@ -1,0 +1,14 @@
+btc_mode=1
+country=KR/24
+vlan_mode=0
+mpc=1
+wme_auto_trigger=0
+wme_apsd_trigger=290000
+roam_off=0
+roam_scan_period=10
+roam_delta=20
+roam_trigger=-80
+PM=2
+assoc_listen=1
+assoc_retry_max=7
+cur_etheraddr=A0:0B:BA:D0:64:43
